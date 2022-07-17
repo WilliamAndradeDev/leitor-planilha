@@ -1,0 +1,1 @@
+C:\Users\William Developer\OneDrive\Documentos\Projetos\Java\IdeaProjects\LeitorPlanilhas\build\classes\kotlin\main\com\leitorplanilha\Corretora.class;C:\Users\William Developer\OneDrive\Documentos\Projetos\Java\IdeaProjects\LeitorPlanilhas\build\classes\kotlin\main\com\leitorplanilha\MainKt.class
